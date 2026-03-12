@@ -1,0 +1,5 @@
+{
+  "name": "Mirage AI Detector",
+  "description": "An Android app simulation that detects AI-generated videos and images using a floating bubble, quick settings, or direct upload.",
+  "requestFramePermissions": []
+}
